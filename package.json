@@ -1,0 +1,27 @@
+{
+  "name": "cs222airecipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Warel123-R/CS222-AIRecipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Warel123-R/CS222-AIRecipe/issues"
+  },
+  "homepage": "https://github.com/Warel123-R/CS222-AIRecipe#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1492.0",
+    "axios": "^1.6.1",
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.2"
+  }
+}
