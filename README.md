@@ -1,4 +1,4 @@
-# group-project-readme
+# RecipeSnap-Pro-readme
 
 
 # Introduction
