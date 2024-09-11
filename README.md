@@ -42,7 +42,7 @@ Rishabh Ranganathan: Developed the backend server's functionality and worked on 
 
 Pranav Pullabhotla: Developed AWS integration and worked on the image inspiration API connection
 
-Joshus Neela: Frontend developer who worked primarily on color schemes and UI
+Joshua Neela: Frontend developer who worked primarily on color schemes and UI
 
 
 # Environment Installation:
